@@ -81,7 +81,7 @@ main {
 }
 
 .step1-up-img {
-  width: 280px;
+  width: 100%;
   height: 150px;
   margin-left: 10px;
   margin-right: 10px;
@@ -91,7 +91,7 @@ main {
 }
 
 .step2-up-img {
-  width: 280px;
+  width: 100%;
   height: 150px;
   margin-left: 10px;
   margin-right: 10px;
@@ -101,7 +101,7 @@ main {
 }
 
 .step3-up-img {
-  width: 280px;
+  width: 100%;
   height: 150px;
   margin-left: 10px;
   margin-right: 10px;
